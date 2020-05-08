@@ -1,6 +1,6 @@
 # About me
 
-![](assets/Stuart.jpg|width=250)
+![](assets/Stuart.jpg | width=250)
 
 ### Position in team
 Neural-Network Application-Side Developer
