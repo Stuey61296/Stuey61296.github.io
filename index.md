@@ -36,4 +36,4 @@ Neural-Network Application-Side Developer
 * Enjoy team work when everyone pulls their weight
 
 ### Links
-https://github.com/Stuey61296 
+[GitHub](https://github.com/Stuey61296)
