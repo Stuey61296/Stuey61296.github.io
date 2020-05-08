@@ -15,6 +15,8 @@ Neural-Network Application-Side Developer
   - HTML
   - Javascript
   - XML
+  - ReactJS
+  - PHP
 * Music
 * Psychology
 
