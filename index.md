@@ -7,6 +7,14 @@ Neural-Network Application-Side Developer
 * Running
 * Gaming
 * Software Development
+** C++
+** Nodejs
+** Java
+** Python
+** C#
+** HTML
+** Javascript
+** XML
 * Music
 * Psychology
 
@@ -25,6 +33,7 @@ Neural-Network Application-Side Developer
 * Synertech
 * COS 151 Tutor (2019)
 * Freelance Web Developer
+* High school tutor (2015 - Present)
 
 ### Accolades
 * Member of the Golden Key Honour Society
