@@ -36,5 +36,5 @@ Neural-Network Application-Side Developer
 * Enjoy team work when everyone pulls their weight
 
 ### Links
-[GitHub](https://github.com/Stuey61296)
+[GitHub](https://github.com/Stuey61296)\
 [LinkedIn](https://www.linkedin.com/in/stuart-barclay-73770019a/)
