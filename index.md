@@ -1,5 +1,5 @@
 # About me
-![alt text](https://github.com/Stuey61296/Stuey61296.github.io/blob/master/Stuart.jpg =250x250)
+![alt text](https://github.com/Stuey61296/Stuey61296.github.io/blob/master/Stuart.jpg | width= 250)
 ### Position in team
 Neural-Network Application-Side Developer
 
