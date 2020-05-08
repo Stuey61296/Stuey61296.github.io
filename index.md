@@ -7,14 +7,14 @@ Neural-Network Application-Side Developer
 * Running
 * Gaming
 * Software Development
-** C++
-** Nodejs
-** Java
-** Python
-** C#
-** HTML
-** Javascript
-** XML
+  ** C++
+  ** Nodejs
+  ** Java
+  ** Python
+  ** C#
+  ** HTML
+  ** Javascript
+  ** XML
 * Music
 * Psychology
 
