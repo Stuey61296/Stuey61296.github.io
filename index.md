@@ -1,5 +1,4 @@
 # About me
-![useful image](https://github.com/Stuey61296/Stuey61296.github.io/assets/Stuart.jpg)
 ### Position in team
 Neural-Network Application-Side Developer
 
