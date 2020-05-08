@@ -1,5 +1,5 @@
 # About me
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+[[https://github.com/Stuey61296/Stuey61296.github.io/blob/master/Stuart.jpg|width=250px]]
 ### Position in team
 Neural-Network Application-Side Developer
 
