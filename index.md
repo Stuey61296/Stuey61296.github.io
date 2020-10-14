@@ -1,11 +1,19 @@
-# About me
+# Stuart Barclay
 
-<img src="assets/Stuart.jpg" width="250px"/>
+|   |   |
+|:----:|:----:|
+|## Personal Information|##About Me|
 
-### Position in team
+<!-- # About me -->
+
+![Stuart Barclay](assets/Stuart.jpg "Stuart Barclay")
+
+## Position in team
+
 Neural-Network Application-Side Developer
 
 ### Interests
+
 * Cycling
 * Running
 * Gaming
