@@ -10,19 +10,19 @@
 - Cycling
 - Running
 - Gaming
-- Software Development
-  - C++
-  - Nodejs
-  - Java
-  - Python
-  - C#
-  - HTML
-  - Javascript
-  - XML
-  - ReactJS
-  - PHP
 - Music
 - Psychology
+
+## Core Competencies
+
+- C++
+- Java
+- Javascript
+- NodeJs
+- C# .net
+- PHP
+- Python
+- XML
 
 ## Skills
 
