@@ -57,3 +57,4 @@
 
 [GitHub](https://github.com/Stuey61296)  
 [LinkedIn](https://www.linkedin.com/in/stuart-barclay-73770019a/)
+<a href="mailto:stuartcbarclay@gmail.com">Email - Stuartcbarclay@gmail.com</a>
